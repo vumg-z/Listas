@@ -322,7 +322,10 @@ int main() {
       lista.prev();
       break;
     case 13:
-      // Completar aqui
+      lista.get_item();
+      break;
+      case 14:
+      // salir
       break;
     }
   }
